@@ -1,0 +1,2400 @@
+[2016-02-23T12:55:46 +1100] begin loadOnTheDayAppointments with doctorID: 69 and doctor Name:  "Prema Nayak (OAK)" and date:  "Mon Aug 8 2016" 
+[2016-02-23T12:55:46 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:46 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:46 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:46 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:46 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:46 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:46 +1100] entered loadFreeAppointments for doctor ID:  70 and doctorName:  "Fareed Ahmed (OAK)" and date:  "Mon Aug 8 2016" 
+[2016-02-23T12:55:46 +1100] begin loadOnTheDayAppointments with doctorID: 70 and doctor Name:  "Fareed Ahmed (OAK)" and date:  "Mon Aug 8 2016" 
+[2016-02-23T12:55:46 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:46 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:46 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:46 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:46 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:46 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:46 +1100] entered loadFreeAppointments for doctor ID:  71 and doctorName:  "Anandi Sivapragasam" and date:  "Mon Aug 8 2016" 
+[2016-02-23T12:55:46 +1100] begin loadOnTheDayAppointments with doctorID: 71 and doctor Name:  "Anandi Sivapragasam" and date:  "Mon Aug 8 2016" 
+[2016-02-23T12:55:46 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:46 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:46 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:46 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:46 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:46 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:46 +1100] entered loadFreeAppointments for doctor ID:  76 and doctorName:  "Olivia Winn (CCC)" and date:  "Mon Aug 8 2016" 
+[2016-02-23T12:55:46 +1100] begin loadOnTheDayAppointments with doctorID: 76 and doctor Name:  "Olivia Winn (CCC)" and date:  "Mon Aug 8 2016" 
+[2016-02-23T12:55:46 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  77 and doctorName:  "Olivia Winn (OAK)" and date:  "Mon Aug 8 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 77 and doctor Name:  "Olivia Winn (OAK)" and date:  "Mon Aug 8 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  78 and doctorName:  "Olivia Winn (GW)" and date:  "Mon Aug 8 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 78 and doctor Name:  "Olivia Winn (GW)" and date:  "Mon Aug 8 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  82 and doctorName:  "Tanith Lamaro (CCC)" and date:  "Mon Aug 8 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 82 and doctor Name:  "Tanith Lamaro (CCC)" and date:  "Mon Aug 8 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] begin removeTakenTimes 
+[2016-02-23T12:55:47 +1100] end removeTakenTimes 
+[2016-02-23T12:55:47 +1100] Appointments "08-08-2016" : no changes detected. 
+[2016-02-23T12:55:47 +1100] last active  750 
+[2016-02-23T12:55:47 +1100] talking to database... 
+[2016-02-23T12:55:47 +1100] SyncerBestPractice::loadDay:  QDate("Wed Aug 17 2016") 
+[2016-02-23T12:55:47 +1100] begin loadDoctors 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Lisa Thompson (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Linda Anderson (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Michelle Delves (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Tanith Lamaro (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Anne Palermo (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Cameron Linford (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Cameron Linford (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Mengsha Chen (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Michelle Delves (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Tammie Choi (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Emma George (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Emma George (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Linda Anderson (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Lisa Thompson (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Michelle Cornelius (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Jennifer Grant (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Prema Nayak (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Natalie Kowadlo (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Natalie Kowadlo (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Deepak Ganapathy" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Jennifer Grant (OAK)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Michelle Cornelius (OAK)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Fareed Ahmed (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Natalie Kowadlo (OAK)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Lisa Thompson (OAK)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Cameron Linford (OAK)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Linda Anderson (OAK)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Shamnika Rupasinghe" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Prema Nayak (OAK)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Fareed Ahmed (OAK)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Anandi Sivapragasam" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Olivia Winn (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Olivia Winn (OAK)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Olivia Winn (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Tanith Lamaro (CCC)" 
+[2016-02-23T12:55:47 +1100] end loadDoctors 
+[2016-02-23T12:55:47 +1100] begin loadLocations 
+[2016-02-23T12:55:47 +1100] end loadLocations 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  3 and doctorName:  "Lisa Thompson (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 3 and doctor Name:  "Lisa Thompson (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  17 and doctorName:  "Linda Anderson (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 17 and doctor Name:  "Linda Anderson (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  18 and doctorName:  "Michelle Delves (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 18 and doctor Name:  "Michelle Delves (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  19 and doctorName:  "Tanith Lamaro (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 19 and doctor Name:  "Tanith Lamaro (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  20 and doctorName:  "Anne Palermo (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 20 and doctor Name:  "Anne Palermo (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  22 and doctorName:  "Cameron Linford (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 22 and doctor Name:  "Cameron Linford (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  23 and doctorName:  "Cameron Linford (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 23 and doctor Name:  "Cameron Linford (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  25 and doctorName:  "Mengsha Chen (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 25 and doctor Name:  "Mengsha Chen (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  26 and doctorName:  "Michelle Delves (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 26 and doctor Name:  "Michelle Delves (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  29 and doctorName:  "Tammie Choi (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 29 and doctor Name:  "Tammie Choi (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  30 and doctorName:  "Emma George (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 30 and doctor Name:  "Emma George (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  31 and doctorName:  "Emma George (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 31 and doctor Name:  "Emma George (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  46 and doctorName:  "Linda Anderson (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 46 and doctor Name:  "Linda Anderson (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  47 and doctorName:  "Lisa Thompson (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 47 and doctor Name:  "Lisa Thompson (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  51 and doctorName:  "Michelle Cornelius (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 51 and doctor Name:  "Michelle Cornelius (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  52 and doctorName:  "Jennifer Grant (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 52 and doctor Name:  "Jennifer Grant (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  53 and doctorName:  "Prema Nayak (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 53 and doctor Name:  "Prema Nayak (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  54 and doctorName:  "Natalie Kowadlo (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 54 and doctor Name:  "Natalie Kowadlo (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  55 and doctorName:  "Natalie Kowadlo (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 55 and doctor Name:  "Natalie Kowadlo (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  56 and doctorName:  "Deepak Ganapathy" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 56 and doctor Name:  "Deepak Ganapathy" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  58 and doctorName:  "Jennifer Grant (OAK)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 58 and doctor Name:  "Jennifer Grant (OAK)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  59 and doctorName:  "Michelle Cornelius (OAK)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 59 and doctor Name:  "Michelle Cornelius (OAK)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  63 and doctorName:  "Fareed Ahmed (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 63 and doctor Name:  "Fareed Ahmed (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  64 and doctorName:  "Natalie Kowadlo (OAK)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 64 and doctor Name:  "Natalie Kowadlo (OAK)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  65 and doctorName:  "Lisa Thompson (OAK)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 65 and doctor Name:  "Lisa Thompson (OAK)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  66 and doctorName:  "Cameron Linford (OAK)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 66 and doctor Name:  "Cameron Linford (OAK)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  67 and doctorName:  "Linda Anderson (OAK)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 67 and doctor Name:  "Linda Anderson (OAK)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  68 and doctorName:  "Shamnika Rupasinghe" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 68 and doctor Name:  "Shamnika Rupasinghe" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  69 and doctorName:  "Prema Nayak (OAK)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 69 and doctor Name:  "Prema Nayak (OAK)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  70 and doctorName:  "Fareed Ahmed (OAK)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 70 and doctor Name:  "Fareed Ahmed (OAK)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  71 and doctorName:  "Anandi Sivapragasam" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 71 and doctor Name:  "Anandi Sivapragasam" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  76 and doctorName:  "Olivia Winn (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 76 and doctor Name:  "Olivia Winn (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  77 and doctorName:  "Olivia Winn (OAK)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 77 and doctor Name:  "Olivia Winn (OAK)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  78 and doctorName:  "Olivia Winn (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 78 and doctor Name:  "Olivia Winn (GW)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] entered loadFreeAppointments for doctor ID:  82 and doctorName:  "Tanith Lamaro (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] begin loadOnTheDayAppointments with doctorID: 82 and doctor Name:  "Tanith Lamaro (CCC)" and date:  "Wed Aug 17 2016" 
+[2016-02-23T12:55:47 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:47 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:47 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:47 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:47 +1100] begin removeTakenTimes 
+[2016-02-23T12:55:47 +1100] end removeTakenTimes 
+[2016-02-23T12:55:47 +1100] talking to server... 
+[2016-02-23T12:55:47 +1100] Ping response recieved after  703  milliseconds  "56198" 
+[2016-02-23T12:55:47 +1100] Post Request: Success 
+[2016-02-23T12:55:47 +1100] last active  859 
+[2016-02-23T12:55:47 +1100] talking to database... 
+[2016-02-23T12:55:47 +1100] SyncerBestPractice::loadDay:  QDate("Sat Aug 20 2016") 
+[2016-02-23T12:55:47 +1100] begin loadDoctors 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Lisa Thompson (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Linda Anderson (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Michelle Delves (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Tanith Lamaro (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Anne Palermo (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Cameron Linford (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Cameron Linford (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Mengsha Chen (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Michelle Delves (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Tammie Choi (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Emma George (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Emma George (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Linda Anderson (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Lisa Thompson (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Michelle Cornelius (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Jennifer Grant (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Prema Nayak (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Natalie Kowadlo (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Natalie Kowadlo (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Deepak Ganapathy" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Jennifer Grant (OAK)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Michelle Cornelius (OAK)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Fareed Ahmed (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Natalie Kowadlo (OAK)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Lisa Thompson (OAK)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Cameron Linford (OAK)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Linda Anderson (OAK)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Shamnika Rupasinghe" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Prema Nayak (OAK)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Fareed Ahmed (OAK)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Anandi Sivapragasam" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Olivia Winn (CCC)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Olivia Winn (OAK)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Olivia Winn (GW)" 
+[2016-02-23T12:55:47 +1100] found appointment book user: "Tanith Lamaro (CCC)" 
+[2016-02-23T12:55:47 +1100] end loadDoctors 
+[2016-02-23T12:55:47 +1100] begin loadLocations 
+[2016-02-23T12:55:48 +1100] end loadLocations 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  3 and doctorName:  "Lisa Thompson (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 3 and doctor Name:  "Lisa Thompson (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  17 and doctorName:  "Linda Anderson (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 17 and doctor Name:  "Linda Anderson (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  18 and doctorName:  "Michelle Delves (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 18 and doctor Name:  "Michelle Delves (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  19 and doctorName:  "Tanith Lamaro (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 19 and doctor Name:  "Tanith Lamaro (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  20 and doctorName:  "Anne Palermo (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 20 and doctor Name:  "Anne Palermo (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  22 and doctorName:  "Cameron Linford (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 22 and doctor Name:  "Cameron Linford (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  23 and doctorName:  "Cameron Linford (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 23 and doctor Name:  "Cameron Linford (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  25 and doctorName:  "Mengsha Chen (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 25 and doctor Name:  "Mengsha Chen (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  26 and doctorName:  "Michelle Delves (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 26 and doctor Name:  "Michelle Delves (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  29 and doctorName:  "Tammie Choi (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 29 and doctor Name:  "Tammie Choi (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  30 and doctorName:  "Emma George (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 30 and doctor Name:  "Emma George (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  31 and doctorName:  "Emma George (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 31 and doctor Name:  "Emma George (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  46 and doctorName:  "Linda Anderson (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 46 and doctor Name:  "Linda Anderson (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  47 and doctorName:  "Lisa Thompson (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 47 and doctor Name:  "Lisa Thompson (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  51 and doctorName:  "Michelle Cornelius (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 51 and doctor Name:  "Michelle Cornelius (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  52 and doctorName:  "Jennifer Grant (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 52 and doctor Name:  "Jennifer Grant (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  53 and doctorName:  "Prema Nayak (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 53 and doctor Name:  "Prema Nayak (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  54 and doctorName:  "Natalie Kowadlo (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 54 and doctor Name:  "Natalie Kowadlo (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  55 and doctorName:  "Natalie Kowadlo (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 55 and doctor Name:  "Natalie Kowadlo (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  56 and doctorName:  "Deepak Ganapathy" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 56 and doctor Name:  "Deepak Ganapathy" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  58 and doctorName:  "Jennifer Grant (OAK)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 58 and doctor Name:  "Jennifer Grant (OAK)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  59 and doctorName:  "Michelle Cornelius (OAK)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 59 and doctor Name:  "Michelle Cornelius (OAK)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  63 and doctorName:  "Fareed Ahmed (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 63 and doctor Name:  "Fareed Ahmed (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  64 and doctorName:  "Natalie Kowadlo (OAK)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 64 and doctor Name:  "Natalie Kowadlo (OAK)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  65 and doctorName:  "Lisa Thompson (OAK)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 65 and doctor Name:  "Lisa Thompson (OAK)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  66 and doctorName:  "Cameron Linford (OAK)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 66 and doctor Name:  "Cameron Linford (OAK)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  67 and doctorName:  "Linda Anderson (OAK)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 67 and doctor Name:  "Linda Anderson (OAK)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  68 and doctorName:  "Shamnika Rupasinghe" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 68 and doctor Name:  "Shamnika Rupasinghe" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  69 and doctorName:  "Prema Nayak (OAK)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 69 and doctor Name:  "Prema Nayak (OAK)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  70 and doctorName:  "Fareed Ahmed (OAK)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 70 and doctor Name:  "Fareed Ahmed (OAK)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  71 and doctorName:  "Anandi Sivapragasam" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 71 and doctor Name:  "Anandi Sivapragasam" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  76 and doctorName:  "Olivia Winn (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 76 and doctor Name:  "Olivia Winn (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  77 and doctorName:  "Olivia Winn (OAK)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 77 and doctor Name:  "Olivia Winn (OAK)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  78 and doctorName:  "Olivia Winn (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 78 and doctor Name:  "Olivia Winn (GW)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] entered loadFreeAppointments for doctor ID:  82 and doctorName:  "Tanith Lamaro (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] begin loadOnTheDayAppointments with doctorID: 82 and doctor Name:  "Tanith Lamaro (CCC)" and date:  "Sat Aug 20 2016" 
+[2016-02-23T12:55:48 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:55:48 +1100] finished loadFreeAppointments 
+[2016-02-23T12:55:48 +1100] begin loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] end loadBookedAppointments 
+[2016-02-23T12:55:48 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] end removeUnavailableSlots 
+[2016-02-23T12:55:48 +1100] begin removeTakenTimes 
+[2016-02-23T12:55:48 +1100] end removeTakenTimes 
+[2016-02-23T12:55:48 +1100] Appointments "20-08-2016" : no changes detected. 
+[2016-02-23T12:55:50 +1100] waiting room sync triggered. 
+[2016-02-23T12:55:50 +1100] SyncerBestPractice::uploadWaitingRoomMarketing 
+[2016-02-23T12:55:51 +1100] Post Request: Success 
+[2016-02-23T12:55:57 +1100] Ping response recieved after  16  milliseconds  "56199" 
+[2016-02-23T12:56:07 +1100] Ping response recieved after  16  milliseconds  "56200" 
+[2016-02-23T12:56:10 +1100] waiting room sync triggered. 
+[2016-02-23T12:56:10 +1100] SyncerBestPractice::uploadWaitingRoomMarketing 
+[2016-02-23T12:56:10 +1100] Post Request: Success 
+[2016-02-23T12:56:17 +1100] Ping response recieved after  15  milliseconds  "56201" 
+[2016-02-23T12:56:18 +1100] Waiting 11 s until  QDateTime("Tue 23. Feb 12:56:29 2016") 
+[2016-02-23T12:56:27 +1100] Ping response recieved after  16  milliseconds  "56202" 
+[2016-02-23T12:56:29 +1100] Queue Date  QDate("Thu Feb 25 2016") 
+[2016-02-23T12:56:29 +1100] Waiting 8 s until  QDateTime("Tue 23. Feb 12:56:37 2016") 
+[2016-02-23T12:56:29 +1100] last active  42034 
+[2016-02-23T12:56:29 +1100] talking to database... 
+[2016-02-23T12:56:29 +1100] SyncerBestPractice::loadDay:  QDate("Thu Feb 25 2016") 
+[2016-02-23T12:56:29 +1100] begin loadDoctors 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Lisa Thompson (GW)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Linda Anderson (GW)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Michelle Delves (GW)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Tanith Lamaro (GW)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Anne Palermo (CCC)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Cameron Linford (CCC)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Cameron Linford (GW)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Mengsha Chen (GW)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Michelle Delves (CCC)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Tammie Choi (GW)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Emma George (CCC)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Emma George (GW)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Linda Anderson (CCC)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Lisa Thompson (CCC)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Michelle Cornelius (CCC)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Jennifer Grant (CCC)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Prema Nayak (CCC)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Natalie Kowadlo (GW)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Natalie Kowadlo (CCC)" 
+[2016-02-23T12:56:29 +1100] found appointment book user: "Deepak Ganapathy" 
+[2016-02-23T12:56:30 +1100] found appointment book user: "Jennifer Grant (OAK)" 
+[2016-02-23T12:56:30 +1100] found appointment book user: "Michelle Cornelius (OAK)" 
+[2016-02-23T12:56:30 +1100] found appointment book user: "Fareed Ahmed (CCC)" 
+[2016-02-23T12:56:30 +1100] found appointment book user: "Natalie Kowadlo (OAK)" 
+[2016-02-23T12:56:30 +1100] found appointment book user: "Lisa Thompson (OAK)" 
+[2016-02-23T12:56:30 +1100] found appointment book user: "Cameron Linford (OAK)" 
+[2016-02-23T12:56:30 +1100] found appointment book user: "Linda Anderson (OAK)" 
+[2016-02-23T12:56:30 +1100] found appointment book user: "Shamnika Rupasinghe" 
+[2016-02-23T12:56:30 +1100] found appointment book user: "Prema Nayak (OAK)" 
+[2016-02-23T12:56:30 +1100] found appointment book user: "Fareed Ahmed (OAK)" 
+[2016-02-23T12:56:30 +1100] found appointment book user: "Anandi Sivapragasam" 
+[2016-02-23T12:56:30 +1100] found appointment book user: "Olivia Winn (CCC)" 
+[2016-02-23T12:56:30 +1100] found appointment book user: "Olivia Winn (OAK)" 
+[2016-02-23T12:56:30 +1100] found appointment book user: "Olivia Winn (GW)" 
+[2016-02-23T12:56:30 +1100] found appointment book user: "Tanith Lamaro (CCC)" 
+[2016-02-23T12:56:30 +1100] end loadDoctors 
+[2016-02-23T12:56:30 +1100] begin loadLocations 
+[2016-02-23T12:56:30 +1100] end loadLocations 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  3 and doctorName:  "Lisa Thompson (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 3 and doctor Name:  "Lisa Thompson (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  17 and doctorName:  "Linda Anderson (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 17 and doctor Name:  "Linda Anderson (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  18 and doctorName:  "Michelle Delves (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 18 and doctor Name:  "Michelle Delves (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  19 and doctorName:  "Tanith Lamaro (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 19 and doctor Name:  "Tanith Lamaro (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  20 and doctorName:  "Anne Palermo (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 20 and doctor Name:  "Anne Palermo (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  22 and doctorName:  "Cameron Linford (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 22 and doctor Name:  "Cameron Linford (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  23 and doctorName:  "Cameron Linford (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 23 and doctor Name:  "Cameron Linford (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  25 and doctorName:  "Mengsha Chen (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 25 and doctor Name:  "Mengsha Chen (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  26 and doctorName:  "Michelle Delves (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 26 and doctor Name:  "Michelle Delves (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  29 and doctorName:  "Tammie Choi (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 29 and doctor Name:  "Tammie Choi (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  30 and doctorName:  "Emma George (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 30 and doctor Name:  "Emma George (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  31 and doctorName:  "Emma George (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 31 and doctor Name:  "Emma George (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  46 and doctorName:  "Linda Anderson (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 46 and doctor Name:  "Linda Anderson (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  47 and doctorName:  "Lisa Thompson (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 47 and doctor Name:  "Lisa Thompson (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  51 and doctorName:  "Michelle Cornelius (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 51 and doctor Name:  "Michelle Cornelius (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  52 and doctorName:  "Jennifer Grant (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 52 and doctor Name:  "Jennifer Grant (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  53 and doctorName:  "Prema Nayak (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 53 and doctor Name:  "Prema Nayak (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  54 and doctorName:  "Natalie Kowadlo (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 54 and doctor Name:  "Natalie Kowadlo (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  55 and doctorName:  "Natalie Kowadlo (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 55 and doctor Name:  "Natalie Kowadlo (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  56 and doctorName:  "Deepak Ganapathy" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 56 and doctor Name:  "Deepak Ganapathy" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  58 and doctorName:  "Jennifer Grant (OAK)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 58 and doctor Name:  "Jennifer Grant (OAK)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  59 and doctorName:  "Michelle Cornelius (OAK)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 59 and doctor Name:  "Michelle Cornelius (OAK)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  63 and doctorName:  "Fareed Ahmed (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 63 and doctor Name:  "Fareed Ahmed (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  64 and doctorName:  "Natalie Kowadlo (OAK)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 64 and doctor Name:  "Natalie Kowadlo (OAK)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  65 and doctorName:  "Lisa Thompson (OAK)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 65 and doctor Name:  "Lisa Thompson (OAK)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  66 and doctorName:  "Cameron Linford (OAK)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 66 and doctor Name:  "Cameron Linford (OAK)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  67 and doctorName:  "Linda Anderson (OAK)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 67 and doctor Name:  "Linda Anderson (OAK)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  68 and doctorName:  "Shamnika Rupasinghe" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 68 and doctor Name:  "Shamnika Rupasinghe" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  69 and doctorName:  "Prema Nayak (OAK)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 69 and doctor Name:  "Prema Nayak (OAK)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  70 and doctorName:  "Fareed Ahmed (OAK)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 70 and doctor Name:  "Fareed Ahmed (OAK)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  71 and doctorName:  "Anandi Sivapragasam" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 71 and doctor Name:  "Anandi Sivapragasam" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  76 and doctorName:  "Olivia Winn (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 76 and doctor Name:  "Olivia Winn (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  77 and doctorName:  "Olivia Winn (OAK)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 77 and doctor Name:  "Olivia Winn (OAK)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  78 and doctorName:  "Olivia Winn (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 78 and doctor Name:  "Olivia Winn (GW)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] entered loadFreeAppointments for doctor ID:  82 and doctorName:  "Tanith Lamaro (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] begin loadOnTheDayAppointments with doctorID: 82 and doctor Name:  "Tanith Lamaro (CCC)" and date:  "Thu Feb 25 2016" 
+[2016-02-23T12:56:30 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:30 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:30 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:30 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:30 +1100] begin removeTakenTimes 
+[2016-02-23T12:56:30 +1100] end removeTakenTimes 
+[2016-02-23T12:56:30 +1100] Appointments "25-02-2016" : no changes detected. 
+[2016-02-23T12:56:30 +1100] waiting room sync triggered. 
+[2016-02-23T12:56:30 +1100] SyncerBestPractice::uploadWaitingRoomMarketing 
+[2016-02-23T12:56:31 +1100] Post Request: Success 
+[2016-02-23T12:56:37 +1100] Ping response recieved after  15  milliseconds  "56203" 
+[2016-02-23T12:56:37 +1100] Queue Date  QDate("Tue Feb 23 2016") 
+[2016-02-23T12:56:37 +1100] Waiting 26 s until  QDateTime("Tue 23. Feb 12:57:03 2016") 
+[2016-02-23T12:56:37 +1100]  *************************************************************************** 
+[2016-02-23T12:56:37 +1100]  *                                                                         * 
+[2016-02-23T12:56:37 +1100]  * HealthEngine Appointment Connector - Version 2.0.0.96                   * 
+[2016-02-23T12:56:37 +1100]  *                                                                         * 
+[2016-02-23T12:56:37 +1100]  * This software was installed by HealthEngine to synchronise your         * 
+[2016-02-23T12:56:37 +1100]  * practice software's appointment book with HealthEngine.                 * 
+[2016-02-23T12:56:37 +1100]  *                                                                         * 
+[2016-02-23T12:56:37 +1100]  * You should leave this software running. If you do need to exit this     * 
+[2016-02-23T12:56:37 +1100]  * program, right click on the HealthEngine system tray icon and choose    * 
+[2016-02-23T12:56:37 +1100]  * choose STOP SERVICE. Note that this will prevent synchronisation! You   * 
+[2016-02-23T12:56:37 +1100]  * should contact HealthEngine at the below phone number if you require    * 
+[2016-02-23T12:56:37 +1100]  * assistance.                                                             * 
+[2016-02-23T12:56:37 +1100]  *                                                                         * 
+[2016-02-23T12:56:37 +1100]  * HealthEngine - PO Box 199 Leederville, WA 6902 - 1300 377 639           * 
+[2016-02-23T12:56:37 +1100]  *                                                                         * 
+[2016-02-23T12:56:37 +1100]  *************************************************************************** 
+[2016-02-23T12:56:37 +1100]  
+[2016-02-23T12:56:37 +1100] last active  7969 
+[2016-02-23T12:56:37 +1100] talking to database... 
+[2016-02-23T12:56:37 +1100] SyncerBestPractice::loadDay:  QDate("Tue Feb 23 2016") 
+[2016-02-23T12:56:37 +1100] begin loadDoctors 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Lisa Thompson (GW)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Linda Anderson (GW)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Michelle Delves (GW)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Tanith Lamaro (GW)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Anne Palermo (CCC)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Cameron Linford (CCC)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Cameron Linford (GW)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Mengsha Chen (GW)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Michelle Delves (CCC)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Tammie Choi (GW)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Emma George (CCC)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Emma George (GW)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Linda Anderson (CCC)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Lisa Thompson (CCC)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Michelle Cornelius (CCC)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Jennifer Grant (CCC)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Prema Nayak (CCC)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Natalie Kowadlo (GW)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Natalie Kowadlo (CCC)" 
+[2016-02-23T12:56:37 +1100] found appointment book user: "Deepak Ganapathy" 
+[2016-02-23T12:56:38 +1100] found appointment book user: "Jennifer Grant (OAK)" 
+[2016-02-23T12:56:38 +1100] found appointment book user: "Michelle Cornelius (OAK)" 
+[2016-02-23T12:56:38 +1100] found appointment book user: "Fareed Ahmed (CCC)" 
+[2016-02-23T12:56:38 +1100] found appointment book user: "Natalie Kowadlo (OAK)" 
+[2016-02-23T12:56:38 +1100] found appointment book user: "Lisa Thompson (OAK)" 
+[2016-02-23T12:56:38 +1100] found appointment book user: "Cameron Linford (OAK)" 
+[2016-02-23T12:56:38 +1100] found appointment book user: "Linda Anderson (OAK)" 
+[2016-02-23T12:56:38 +1100] found appointment book user: "Shamnika Rupasinghe" 
+[2016-02-23T12:56:38 +1100] found appointment book user: "Prema Nayak (OAK)" 
+[2016-02-23T12:56:38 +1100] found appointment book user: "Fareed Ahmed (OAK)" 
+[2016-02-23T12:56:38 +1100] found appointment book user: "Anandi Sivapragasam" 
+[2016-02-23T12:56:38 +1100] found appointment book user: "Olivia Winn (CCC)" 
+[2016-02-23T12:56:38 +1100] found appointment book user: "Olivia Winn (OAK)" 
+[2016-02-23T12:56:38 +1100] found appointment book user: "Olivia Winn (GW)" 
+[2016-02-23T12:56:38 +1100] found appointment book user: "Tanith Lamaro (CCC)" 
+[2016-02-23T12:56:38 +1100] end loadDoctors 
+[2016-02-23T12:56:38 +1100] begin loadLocations 
+[2016-02-23T12:56:38 +1100] end loadLocations 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  3 and doctorName:  "Lisa Thompson (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 3 and doctor Name:  "Lisa Thompson (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  17 and doctorName:  "Linda Anderson (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 17 and doctor Name:  "Linda Anderson (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  18 and doctorName:  "Michelle Delves (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 18 and doctor Name:  "Michelle Delves (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  19 and doctorName:  "Tanith Lamaro (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 19 and doctor Name:  "Tanith Lamaro (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  20 and doctorName:  "Anne Palermo (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 20 and doctor Name:  "Anne Palermo (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  22 and doctorName:  "Cameron Linford (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 22 and doctor Name:  "Cameron Linford (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  23 and doctorName:  "Cameron Linford (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 23 and doctor Name:  "Cameron Linford (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  25 and doctorName:  "Mengsha Chen (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 25 and doctor Name:  "Mengsha Chen (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  26 and doctorName:  "Michelle Delves (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 26 and doctor Name:  "Michelle Delves (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  29 and doctorName:  "Tammie Choi (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 29 and doctor Name:  "Tammie Choi (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  30 and doctorName:  "Emma George (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 30 and doctor Name:  "Emma George (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  31 and doctorName:  "Emma George (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 31 and doctor Name:  "Emma George (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  46 and doctorName:  "Linda Anderson (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 46 and doctor Name:  "Linda Anderson (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  47 and doctorName:  "Lisa Thompson (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 47 and doctor Name:  "Lisa Thompson (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  51 and doctorName:  "Michelle Cornelius (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 51 and doctor Name:  "Michelle Cornelius (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  52 and doctorName:  "Jennifer Grant (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 52 and doctor Name:  "Jennifer Grant (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  53 and doctorName:  "Prema Nayak (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 53 and doctor Name:  "Prema Nayak (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  54 and doctorName:  "Natalie Kowadlo (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 54 and doctor Name:  "Natalie Kowadlo (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  55 and doctorName:  "Natalie Kowadlo (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 55 and doctor Name:  "Natalie Kowadlo (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  56 and doctorName:  "Deepak Ganapathy" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 56 and doctor Name:  "Deepak Ganapathy" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  58 and doctorName:  "Jennifer Grant (OAK)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 58 and doctor Name:  "Jennifer Grant (OAK)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  59 and doctorName:  "Michelle Cornelius (OAK)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 59 and doctor Name:  "Michelle Cornelius (OAK)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  63 and doctorName:  "Fareed Ahmed (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 63 and doctor Name:  "Fareed Ahmed (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  64 and doctorName:  "Natalie Kowadlo (OAK)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 64 and doctor Name:  "Natalie Kowadlo (OAK)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  65 and doctorName:  "Lisa Thompson (OAK)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 65 and doctor Name:  "Lisa Thompson (OAK)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  66 and doctorName:  "Cameron Linford (OAK)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 66 and doctor Name:  "Cameron Linford (OAK)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  67 and doctorName:  "Linda Anderson (OAK)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 67 and doctor Name:  "Linda Anderson (OAK)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  68 and doctorName:  "Shamnika Rupasinghe" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 68 and doctor Name:  "Shamnika Rupasinghe" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  69 and doctorName:  "Prema Nayak (OAK)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 69 and doctor Name:  "Prema Nayak (OAK)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  70 and doctorName:  "Fareed Ahmed (OAK)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 70 and doctor Name:  "Fareed Ahmed (OAK)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  71 and doctorName:  "Anandi Sivapragasam" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 71 and doctor Name:  "Anandi Sivapragasam" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  76 and doctorName:  "Olivia Winn (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 76 and doctor Name:  "Olivia Winn (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  77 and doctorName:  "Olivia Winn (OAK)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 77 and doctor Name:  "Olivia Winn (OAK)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  78 and doctorName:  "Olivia Winn (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 78 and doctor Name:  "Olivia Winn (GW)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] entered loadFreeAppointments for doctor ID:  82 and doctorName:  "Tanith Lamaro (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] begin loadOnTheDayAppointments with doctorID: 82 and doctor Name:  "Tanith Lamaro (CCC)" and date:  "Tue Feb 23 2016" 
+[2016-02-23T12:56:38 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:56:38 +1100] finished loadFreeAppointments 
+[2016-02-23T12:56:38 +1100] begin loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] end loadBookedAppointments 
+[2016-02-23T12:56:38 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] end removeUnavailableSlots 
+[2016-02-23T12:56:38 +1100] begin removeTakenTimes 
+[2016-02-23T12:56:38 +1100] end removeTakenTimes 
+[2016-02-23T12:56:38 +1100] Appointments "23-02-2016" : no changes detected. 
+[2016-02-23T12:56:39 +1100] Checking healthengine for appointments, attempt:  1 
+[2016-02-23T12:56:39 +1100] Post Request: Success 
+[2016-02-23T12:56:47 +1100] Ping response recieved after  16  milliseconds  "56204" 
+[2016-02-23T12:56:50 +1100] waiting room sync triggered. 
+[2016-02-23T12:56:50 +1100] SyncerBestPractice::uploadWaitingRoomMarketing 
+[2016-02-23T12:56:51 +1100] Post Request: Success 
+[2016-02-23T12:56:57 +1100] Ping response recieved after  16  milliseconds  "56205" 
+[2016-02-23T12:57:03 +1100] Queue Date  QDate("Wed Feb 24 2016") 
+[2016-02-23T12:57:03 +1100] Queue Date  QDate("Sun May 29 2016") 
+[2016-02-23T12:57:03 +1100] Queue Date  QDate("Sun Aug 21 2016") 
+[2016-02-23T12:57:03 +1100] Waiting 21 s until  QDateTime("Tue 23. Feb 12:57:24 2016") 
+[2016-02-23T12:57:03 +1100]  *************************************************************************** 
+[2016-02-23T12:57:03 +1100]  *                                                                         * 
+[2016-02-23T12:57:03 +1100]  * HealthEngine Appointment Connector - Version 2.0.0.96                   * 
+[2016-02-23T12:57:03 +1100]  *                                                                         * 
+[2016-02-23T12:57:03 +1100]  * This software was installed by HealthEngine to synchronise your         * 
+[2016-02-23T12:57:03 +1100]  * practice software's appointment book with HealthEngine.                 * 
+[2016-02-23T12:57:03 +1100]  *                                                                         * 
+[2016-02-23T12:57:03 +1100]  * You should leave this software running. If you do need to exit this     * 
+[2016-02-23T12:57:03 +1100]  * program, right click on the HealthEngine system tray icon and choose    * 
+[2016-02-23T12:57:03 +1100]  * choose STOP SERVICE. Note that this will prevent synchronisation! You   * 
+[2016-02-23T12:57:03 +1100]  * should contact HealthEngine at the below phone number if you require    * 
+[2016-02-23T12:57:03 +1100]  * assistance.                                                             * 
+[2016-02-23T12:57:03 +1100]  *                                                                         * 
+[2016-02-23T12:57:03 +1100]  * HealthEngine - PO Box 199 Leederville, WA 6902 - 1300 377 639           * 
+[2016-02-23T12:57:03 +1100]  *                                                                         * 
+[2016-02-23T12:57:03 +1100]  *************************************************************************** 
+[2016-02-23T12:57:03 +1100]  
+[2016-02-23T12:57:03 +1100] last active  25986 
+[2016-02-23T12:57:03 +1100] talking to database... 
+[2016-02-23T12:57:03 +1100] SyncerBestPractice::loadDay:  QDate("Wed Feb 24 2016") 
+[2016-02-23T12:57:03 +1100] begin loadDoctors 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Lisa Thompson (GW)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Linda Anderson (GW)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Michelle Delves (GW)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Tanith Lamaro (GW)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Anne Palermo (CCC)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Cameron Linford (CCC)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Cameron Linford (GW)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Mengsha Chen (GW)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Michelle Delves (CCC)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Tammie Choi (GW)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Emma George (CCC)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Emma George (GW)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Linda Anderson (CCC)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Lisa Thompson (CCC)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Michelle Cornelius (CCC)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Jennifer Grant (CCC)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Prema Nayak (CCC)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Natalie Kowadlo (GW)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Natalie Kowadlo (CCC)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Deepak Ganapathy" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Jennifer Grant (OAK)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Michelle Cornelius (OAK)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Fareed Ahmed (CCC)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Natalie Kowadlo (OAK)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Lisa Thompson (OAK)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Cameron Linford (OAK)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Linda Anderson (OAK)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Shamnika Rupasinghe" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Prema Nayak (OAK)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Fareed Ahmed (OAK)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Anandi Sivapragasam" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Olivia Winn (CCC)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Olivia Winn (OAK)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Olivia Winn (GW)" 
+[2016-02-23T12:57:03 +1100] found appointment book user: "Tanith Lamaro (CCC)" 
+[2016-02-23T12:57:03 +1100] end loadDoctors 
+[2016-02-23T12:57:03 +1100] begin loadLocations 
+[2016-02-23T12:57:03 +1100] end loadLocations 
+[2016-02-23T12:57:03 +1100] entered loadFreeAppointments for doctor ID:  3 and doctorName:  "Lisa Thompson (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:03 +1100] begin loadOnTheDayAppointments with doctorID: 3 and doctor Name:  "Lisa Thompson (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:03 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:03 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:03 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:03 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:03 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:03 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:03 +1100] entered loadFreeAppointments for doctor ID:  17 and doctorName:  "Linda Anderson (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:03 +1100] begin loadOnTheDayAppointments with doctorID: 17 and doctor Name:  "Linda Anderson (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:03 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:03 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:03 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:03 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:03 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:03 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:03 +1100] entered loadFreeAppointments for doctor ID:  18 and doctorName:  "Michelle Delves (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:03 +1100] begin loadOnTheDayAppointments with doctorID: 18 and doctor Name:  "Michelle Delves (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:03 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:03 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:03 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:03 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:03 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:03 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:03 +1100] entered loadFreeAppointments for doctor ID:  19 and doctorName:  "Tanith Lamaro (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:03 +1100] begin loadOnTheDayAppointments with doctorID: 19 and doctor Name:  "Tanith Lamaro (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:03 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:03 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:03 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  20 and doctorName:  "Anne Palermo (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 20 and doctor Name:  "Anne Palermo (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  22 and doctorName:  "Cameron Linford (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 22 and doctor Name:  "Cameron Linford (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  23 and doctorName:  "Cameron Linford (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 23 and doctor Name:  "Cameron Linford (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  25 and doctorName:  "Mengsha Chen (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 25 and doctor Name:  "Mengsha Chen (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  26 and doctorName:  "Michelle Delves (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 26 and doctor Name:  "Michelle Delves (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  29 and doctorName:  "Tammie Choi (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 29 and doctor Name:  "Tammie Choi (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  30 and doctorName:  "Emma George (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 30 and doctor Name:  "Emma George (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  31 and doctorName:  "Emma George (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 31 and doctor Name:  "Emma George (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  46 and doctorName:  "Linda Anderson (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 46 and doctor Name:  "Linda Anderson (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  47 and doctorName:  "Lisa Thompson (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 47 and doctor Name:  "Lisa Thompson (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  51 and doctorName:  "Michelle Cornelius (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 51 and doctor Name:  "Michelle Cornelius (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  52 and doctorName:  "Jennifer Grant (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 52 and doctor Name:  "Jennifer Grant (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  53 and doctorName:  "Prema Nayak (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 53 and doctor Name:  "Prema Nayak (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  54 and doctorName:  "Natalie Kowadlo (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 54 and doctor Name:  "Natalie Kowadlo (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  55 and doctorName:  "Natalie Kowadlo (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 55 and doctor Name:  "Natalie Kowadlo (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  56 and doctorName:  "Deepak Ganapathy" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 56 and doctor Name:  "Deepak Ganapathy" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  58 and doctorName:  "Jennifer Grant (OAK)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 58 and doctor Name:  "Jennifer Grant (OAK)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  59 and doctorName:  "Michelle Cornelius (OAK)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 59 and doctor Name:  "Michelle Cornelius (OAK)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  63 and doctorName:  "Fareed Ahmed (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 63 and doctor Name:  "Fareed Ahmed (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  64 and doctorName:  "Natalie Kowadlo (OAK)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 64 and doctor Name:  "Natalie Kowadlo (OAK)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  65 and doctorName:  "Lisa Thompson (OAK)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 65 and doctor Name:  "Lisa Thompson (OAK)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  66 and doctorName:  "Cameron Linford (OAK)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 66 and doctor Name:  "Cameron Linford (OAK)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  67 and doctorName:  "Linda Anderson (OAK)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 67 and doctor Name:  "Linda Anderson (OAK)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  68 and doctorName:  "Shamnika Rupasinghe" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 68 and doctor Name:  "Shamnika Rupasinghe" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  69 and doctorName:  "Prema Nayak (OAK)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 69 and doctor Name:  "Prema Nayak (OAK)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  70 and doctorName:  "Fareed Ahmed (OAK)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 70 and doctor Name:  "Fareed Ahmed (OAK)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  71 and doctorName:  "Anandi Sivapragasam" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 71 and doctor Name:  "Anandi Sivapragasam" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  76 and doctorName:  "Olivia Winn (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 76 and doctor Name:  "Olivia Winn (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  77 and doctorName:  "Olivia Winn (OAK)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 77 and doctor Name:  "Olivia Winn (OAK)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  78 and doctorName:  "Olivia Winn (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 78 and doctor Name:  "Olivia Winn (GW)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  82 and doctorName:  "Tanith Lamaro (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 82 and doctor Name:  "Tanith Lamaro (CCC)" and date:  "Wed Feb 24 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] begin removeTakenTimes 
+[2016-02-23T12:57:04 +1100] end removeTakenTimes 
+[2016-02-23T12:57:04 +1100] Appointments "24-02-2016" : no changes detected. 
+[2016-02-23T12:57:04 +1100] last active  547 
+[2016-02-23T12:57:04 +1100] talking to database... 
+[2016-02-23T12:57:04 +1100] SyncerBestPractice::loadDay:  QDate("Sun May 29 2016") 
+[2016-02-23T12:57:04 +1100] begin loadDoctors 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Lisa Thompson (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Linda Anderson (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Michelle Delves (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Tanith Lamaro (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Anne Palermo (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Cameron Linford (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Cameron Linford (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Mengsha Chen (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Michelle Delves (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Tammie Choi (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Emma George (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Emma George (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Linda Anderson (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Lisa Thompson (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Michelle Cornelius (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Jennifer Grant (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Prema Nayak (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Natalie Kowadlo (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Natalie Kowadlo (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Deepak Ganapathy" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Jennifer Grant (OAK)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Michelle Cornelius (OAK)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Fareed Ahmed (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Natalie Kowadlo (OAK)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Lisa Thompson (OAK)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Cameron Linford (OAK)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Linda Anderson (OAK)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Shamnika Rupasinghe" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Prema Nayak (OAK)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Fareed Ahmed (OAK)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Anandi Sivapragasam" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Olivia Winn (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Olivia Winn (OAK)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Olivia Winn (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Tanith Lamaro (CCC)" 
+[2016-02-23T12:57:04 +1100] end loadDoctors 
+[2016-02-23T12:57:04 +1100] begin loadLocations 
+[2016-02-23T12:57:04 +1100] end loadLocations 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  3 and doctorName:  "Lisa Thompson (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 3 and doctor Name:  "Lisa Thompson (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  17 and doctorName:  "Linda Anderson (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 17 and doctor Name:  "Linda Anderson (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  18 and doctorName:  "Michelle Delves (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 18 and doctor Name:  "Michelle Delves (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  19 and doctorName:  "Tanith Lamaro (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 19 and doctor Name:  "Tanith Lamaro (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  20 and doctorName:  "Anne Palermo (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 20 and doctor Name:  "Anne Palermo (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  22 and doctorName:  "Cameron Linford (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 22 and doctor Name:  "Cameron Linford (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  23 and doctorName:  "Cameron Linford (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 23 and doctor Name:  "Cameron Linford (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  25 and doctorName:  "Mengsha Chen (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 25 and doctor Name:  "Mengsha Chen (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  26 and doctorName:  "Michelle Delves (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 26 and doctor Name:  "Michelle Delves (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  29 and doctorName:  "Tammie Choi (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 29 and doctor Name:  "Tammie Choi (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  30 and doctorName:  "Emma George (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 30 and doctor Name:  "Emma George (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  31 and doctorName:  "Emma George (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 31 and doctor Name:  "Emma George (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  46 and doctorName:  "Linda Anderson (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 46 and doctor Name:  "Linda Anderson (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  47 and doctorName:  "Lisa Thompson (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 47 and doctor Name:  "Lisa Thompson (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  51 and doctorName:  "Michelle Cornelius (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 51 and doctor Name:  "Michelle Cornelius (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  52 and doctorName:  "Jennifer Grant (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 52 and doctor Name:  "Jennifer Grant (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  53 and doctorName:  "Prema Nayak (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 53 and doctor Name:  "Prema Nayak (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  54 and doctorName:  "Natalie Kowadlo (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 54 and doctor Name:  "Natalie Kowadlo (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  55 and doctorName:  "Natalie Kowadlo (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 55 and doctor Name:  "Natalie Kowadlo (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  56 and doctorName:  "Deepak Ganapathy" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 56 and doctor Name:  "Deepak Ganapathy" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  58 and doctorName:  "Jennifer Grant (OAK)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 58 and doctor Name:  "Jennifer Grant (OAK)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  59 and doctorName:  "Michelle Cornelius (OAK)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 59 and doctor Name:  "Michelle Cornelius (OAK)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  63 and doctorName:  "Fareed Ahmed (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 63 and doctor Name:  "Fareed Ahmed (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  64 and doctorName:  "Natalie Kowadlo (OAK)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 64 and doctor Name:  "Natalie Kowadlo (OAK)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  65 and doctorName:  "Lisa Thompson (OAK)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 65 and doctor Name:  "Lisa Thompson (OAK)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  66 and doctorName:  "Cameron Linford (OAK)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 66 and doctor Name:  "Cameron Linford (OAK)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  67 and doctorName:  "Linda Anderson (OAK)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 67 and doctor Name:  "Linda Anderson (OAK)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  68 and doctorName:  "Shamnika Rupasinghe" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 68 and doctor Name:  "Shamnika Rupasinghe" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  69 and doctorName:  "Prema Nayak (OAK)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 69 and doctor Name:  "Prema Nayak (OAK)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  70 and doctorName:  "Fareed Ahmed (OAK)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 70 and doctor Name:  "Fareed Ahmed (OAK)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  71 and doctorName:  "Anandi Sivapragasam" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 71 and doctor Name:  "Anandi Sivapragasam" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  76 and doctorName:  "Olivia Winn (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 76 and doctor Name:  "Olivia Winn (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  77 and doctorName:  "Olivia Winn (OAK)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 77 and doctor Name:  "Olivia Winn (OAK)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  78 and doctorName:  "Olivia Winn (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 78 and doctor Name:  "Olivia Winn (GW)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  82 and doctorName:  "Tanith Lamaro (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 82 and doctor Name:  "Tanith Lamaro (CCC)" and date:  "Sun May 29 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] begin removeTakenTimes 
+[2016-02-23T12:57:04 +1100] end removeTakenTimes 
+[2016-02-23T12:57:04 +1100] Appointments "29-05-2016" : no changes detected. 
+[2016-02-23T12:57:04 +1100] last active  250 
+[2016-02-23T12:57:04 +1100] talking to database... 
+[2016-02-23T12:57:04 +1100] SyncerBestPractice::loadDay:  QDate("Sun Aug 21 2016") 
+[2016-02-23T12:57:04 +1100] begin loadDoctors 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Lisa Thompson (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Linda Anderson (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Michelle Delves (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Tanith Lamaro (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Anne Palermo (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Cameron Linford (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Cameron Linford (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Mengsha Chen (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Michelle Delves (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Tammie Choi (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Emma George (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Emma George (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Linda Anderson (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Lisa Thompson (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Michelle Cornelius (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Jennifer Grant (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Prema Nayak (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Natalie Kowadlo (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Natalie Kowadlo (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Deepak Ganapathy" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Jennifer Grant (OAK)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Michelle Cornelius (OAK)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Fareed Ahmed (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Natalie Kowadlo (OAK)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Lisa Thompson (OAK)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Cameron Linford (OAK)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Linda Anderson (OAK)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Shamnika Rupasinghe" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Prema Nayak (OAK)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Fareed Ahmed (OAK)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Anandi Sivapragasam" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Olivia Winn (CCC)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Olivia Winn (OAK)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Olivia Winn (GW)" 
+[2016-02-23T12:57:04 +1100] found appointment book user: "Tanith Lamaro (CCC)" 
+[2016-02-23T12:57:04 +1100] end loadDoctors 
+[2016-02-23T12:57:04 +1100] begin loadLocations 
+[2016-02-23T12:57:04 +1100] end loadLocations 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  3 and doctorName:  "Lisa Thompson (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 3 and doctor Name:  "Lisa Thompson (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  17 and doctorName:  "Linda Anderson (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 17 and doctor Name:  "Linda Anderson (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  18 and doctorName:  "Michelle Delves (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 18 and doctor Name:  "Michelle Delves (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  19 and doctorName:  "Tanith Lamaro (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 19 and doctor Name:  "Tanith Lamaro (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  20 and doctorName:  "Anne Palermo (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 20 and doctor Name:  "Anne Palermo (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  22 and doctorName:  "Cameron Linford (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 22 and doctor Name:  "Cameron Linford (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  23 and doctorName:  "Cameron Linford (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 23 and doctor Name:  "Cameron Linford (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  25 and doctorName:  "Mengsha Chen (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 25 and doctor Name:  "Mengsha Chen (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  26 and doctorName:  "Michelle Delves (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 26 and doctor Name:  "Michelle Delves (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  29 and doctorName:  "Tammie Choi (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 29 and doctor Name:  "Tammie Choi (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:04 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:04 +1100] entered loadFreeAppointments for doctor ID:  30 and doctorName:  "Emma George (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] begin loadOnTheDayAppointments with doctorID: 30 and doctor Name:  "Emma George (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:04 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:04 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:04 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  31 and doctorName:  "Emma George (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 31 and doctor Name:  "Emma George (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  46 and doctorName:  "Linda Anderson (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 46 and doctor Name:  "Linda Anderson (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  47 and doctorName:  "Lisa Thompson (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 47 and doctor Name:  "Lisa Thompson (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  51 and doctorName:  "Michelle Cornelius (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 51 and doctor Name:  "Michelle Cornelius (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  52 and doctorName:  "Jennifer Grant (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 52 and doctor Name:  "Jennifer Grant (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  53 and doctorName:  "Prema Nayak (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 53 and doctor Name:  "Prema Nayak (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  54 and doctorName:  "Natalie Kowadlo (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 54 and doctor Name:  "Natalie Kowadlo (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  55 and doctorName:  "Natalie Kowadlo (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 55 and doctor Name:  "Natalie Kowadlo (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  56 and doctorName:  "Deepak Ganapathy" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 56 and doctor Name:  "Deepak Ganapathy" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  58 and doctorName:  "Jennifer Grant (OAK)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 58 and doctor Name:  "Jennifer Grant (OAK)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  59 and doctorName:  "Michelle Cornelius (OAK)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 59 and doctor Name:  "Michelle Cornelius (OAK)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  63 and doctorName:  "Fareed Ahmed (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 63 and doctor Name:  "Fareed Ahmed (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  64 and doctorName:  "Natalie Kowadlo (OAK)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 64 and doctor Name:  "Natalie Kowadlo (OAK)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  65 and doctorName:  "Lisa Thompson (OAK)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 65 and doctor Name:  "Lisa Thompson (OAK)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  66 and doctorName:  "Cameron Linford (OAK)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 66 and doctor Name:  "Cameron Linford (OAK)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  67 and doctorName:  "Linda Anderson (OAK)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 67 and doctor Name:  "Linda Anderson (OAK)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  68 and doctorName:  "Shamnika Rupasinghe" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 68 and doctor Name:  "Shamnika Rupasinghe" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  69 and doctorName:  "Prema Nayak (OAK)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 69 and doctor Name:  "Prema Nayak (OAK)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  70 and doctorName:  "Fareed Ahmed (OAK)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 70 and doctor Name:  "Fareed Ahmed (OAK)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  71 and doctorName:  "Anandi Sivapragasam" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 71 and doctor Name:  "Anandi Sivapragasam" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  76 and doctorName:  "Olivia Winn (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 76 and doctor Name:  "Olivia Winn (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  77 and doctorName:  "Olivia Winn (OAK)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 77 and doctor Name:  "Olivia Winn (OAK)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  78 and doctorName:  "Olivia Winn (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 78 and doctor Name:  "Olivia Winn (GW)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] entered loadFreeAppointments for doctor ID:  82 and doctorName:  "Tanith Lamaro (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] begin loadOnTheDayAppointments with doctorID: 82 and doctor Name:  "Tanith Lamaro (CCC)" and date:  "Sun Aug 21 2016" 
+[2016-02-23T12:57:05 +1100] end loadOnTheDayAppointments 
+[2016-02-23T12:57:05 +1100] finished loadFreeAppointments 
+[2016-02-23T12:57:05 +1100] begin loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] end loadBookedAppointments 
+[2016-02-23T12:57:05 +1100] begin removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] end removeUnavailableSlots 
+[2016-02-23T12:57:05 +1100] begin removeTakenTimes 
+[2016-02-23T12:57:05 +1100] end removeTakenTimes 
+[2016-02-23T12:57:05 +1100] Appointments "21-08-2016" : no changes detected. 
+[2016-02-23T12:57:07 +1100] Ping response recieved after  16  milliseconds  "56206" 

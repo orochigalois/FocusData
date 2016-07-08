@@ -1,0 +1,40 @@
+/*
+	sign_in.html
+
+#pleaseSignIn{
+	/*
+	color: #5cb85c;
+	
+	font: 1.5em 'Georgia';
+	color: #77b3d4;
+	margin-top: 10%;
+}
+form fieldset .checkbox label{
+	font: 1em 'Georgia';
+	color: #77b3d4;
+}
+
+#my_radio{
+	font: 1em 'Georgia';
+	font-weight: bold;
+	float: left;
+	color: #000000;
+}
+
+#Forgot{
+	font: 1em 'Georgia';
+	float: right;
+}
+*/
+#inputError2{
+	font: 1em 'Georgia';
+	color: #a94442;
+}
+.signIn3{
+	padding: 22px 0 22px 0;
+}
+#personal,#clinic{
+	 display:none;
+}
+
+
